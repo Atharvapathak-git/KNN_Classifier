@@ -40,9 +40,3 @@ The dataset includes features used for classification tasks, such as:
 4. Predict and evaluate results on the test set
 5. Visualize decision boundary (2D feature space)
 
-## ▶️ How to Run
-
-1. Install required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
-
