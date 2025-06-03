@@ -46,4 +46,3 @@ The dataset includes features used for classification tasks, such as:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
 
-   Author - Atharva Pathak
